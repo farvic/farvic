@@ -11,7 +11,7 @@ My name is Victor and my journey as a developer did not start with a "Hello Worl
 
 
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin.svg" width=35 alt="Victor's LinkedIn">](https://www.linkedin.com/in/victorfa/)
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg" width=35 alt="Victor's Twitter">](https://www.twitter.com/vicommit/)
+<!--[<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg" width=35 alt="Victor's Twitter">](https://www.twitter.com/vicommit/)-->
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/github-square.svg" width=35 alt="Victor's landing page">](https://farvic.github.io/)
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/dev.svg" width=35 alt="Victor's dev.to">](https://dev.to/farvic)
 

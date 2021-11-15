@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Victor and my journey as a developer did not start with a "Hello World". It all started years before choosing to major in Computer Engineering, when I decided do create a Ragnarok Online game server. That was my first contact with PHP, MySQL, Apache and C.
+My name is Victor and my journey as a developer did not start with a "Hello World". It all started years before choosing to major in Computer Engineering, when I decided to create a Ragnarok Online game server. That was my first contact with PHP, MySQL, Apache and C.
 <br/><br/>
 <!--🔭 Looking for job opportunities.-->
 💻 My skills include Flutter, C, Python, Java and Assembly.

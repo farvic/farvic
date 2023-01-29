@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Victor and my journey as a developer did not start with a "Hello World". It all started years before choosing to major in Computer Engineering, when I decided to create a Ragnarok Online game server. That was my first contact with PHP, MySQL, Apache and C.
+Welcome to my Github profile! Hit me up if you have any doubts.
 <br/><br/>
-<!--🔭 Looking for job opportunities.-->
-💻 My skills include Flutter, C, Python, Java and Assembly.
+🔭 Looking for job opportunities.
+💻 My skills include Flutter/Dart, Java, Python, HTML/CSS/JS, C and Assembly.
 
-🌱 I’m currently learning HTML, CSS, Javascript, PHP and Django.
+🌱 I’m currently studying Spring/Spring Boot.
 
 📫 How to reach me: 
 

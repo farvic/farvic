@@ -3,6 +3,7 @@
 Welcome to my Github profile! Hit me up if you have any doubts.
 <br/><br/>
 🔭 Looking for job opportunities.
+
 💻 My skills include Flutter/Dart, Java, Python, HTML/CSS/JS, C and Assembly.
 
 🌱 I’m currently studying Spring/Spring Boot.

@@ -1,20 +1,54 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]  [![DEV.to][devto-shield]][devto-url]   
+
 ### Hi there 👋
 
 Welcome to my Github profile! Hit me up if you have any doubts.
 <br/><br/>
-🔭 Looking for job opportunities.
+<!-- 🔭 Looking for job opportunities.
 
 💻 My skills include Flutter/Dart, Java, Python, HTML/CSS/JS, C and Assembly.
 
 🌱 I’m currently studying Spring/Spring Boot.
+ -->
+<!-- 📫 How to reach me:  -->
+```json
+{
+  "🧔 Name": "Victor Fonseca",
+  "🌎 Country": "Brazil",
+  "📚 Course": "Computer Engineering @UFS",
+  "🔭 Status": "Looking for job opportunities",
+  "🌱 Currently studying": "Spring-Boot, Docker, Kubernetes and Jenkins",
+  "👨‍💻 Skills": {
+      "Languages": "Java, Dart, Python, JS, C and Assembly",
+      "Frameworks": "Spring-Boot, Flutter, Django and Node.Js",
+    },
+  "🗣️ Languages": {
+    "Native": "Portuguese",
+    "Other languages": "English and French"
+  },
+  "🛠️ Tools": "Docker, VS Code, IntelliJ, Trello, Discord",
+  "🧙‍♂️ Other Skills": "Scrum",
+  "👨‍💼 Professional Experience": {
+    "Elesson": {
+      "Role": "Flutter Developer",
+      "Category": "Hybrid(Remote/On-site)",
+      "From/To": "Sep.2020, Jan.2022",
+      "Skills used": "Flutter, Java, Node.js, Scrum, OOP",
+      },
+   },
+  "😄 How to reach me": "Through the links at the top"
+}
+```
 
-📫 How to reach me: 
-
-
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin.svg" width=35 alt="Victor's LinkedIn">](https://www.linkedin.com/in/victorfa/)
+<!-- [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin.svg" width=35 alt="Victor's LinkedIn">](https://www.linkedin.com/in/victorfa/)
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/github-square.svg" width=35 alt="Victor's landing page">](https://farvic.github.io/)
-[<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/dev.svg" width=35 alt="Victor's dev.to">](https://dev.to/farvic)
+[<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/dev.svg" width=35 alt="Victor's dev.to">](https://dev.to/farvic) -->
 
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge
+[linkedin-url]: https://linkedin.com/in/victorfa
+[devto-shield]: https://img.shields.io/badge/-Dev-To.svg?style=for-the-badge&logo=dev.to&color=black
+[devto-url]: [https://linkedin.com/in/victorfa](https://dev.to/farvic)
 <!--
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg" width=35 alt="Victor's Twitter">](https://www.twitter.com/vicommit/)
 -->

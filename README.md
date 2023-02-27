@@ -48,7 +48,7 @@ Welcome to my Github profile! Hit me up if you have any doubts.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge
 [linkedin-url]: https://linkedin.com/in/victorfa
 [devto-shield]: https://img.shields.io/badge/-Dev-To.svg?style=for-the-badge&logo=dev.to&color=black
-[devto-url]: [https://linkedin.com/in/victorfa](https://dev.to/farvic)
+[devto-url]: https://dev.to/farvic
 <!--
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter-square.svg" width=35 alt="Victor's Twitter">](https://www.twitter.com/vicommit/)
 -->

@@ -13,20 +13,20 @@ Welcome to my Github profile! Hit me up if you have any doubts.
 <!-- 📫 How to reach me:  -->
 ```json
 {
-  "🧔 Name": "Victor Fonseca",
+  "🧔 Name": "Victor Araujo",
   "🌎 Country": "Brazil",
   "📚 Course": "Computer Engineering @UFS",
   "🔭 Status": "Looking for job opportunities",
-  "🌱 Currently studying": "Spring-Boot, Docker, Kubernetes and Jenkins",
+  "🌱 Currently studying": "Spring Boot, Docker, Kubernetes and Jenkins",
   "👨‍💻 Skills": {
       "Languages": "Java, Dart, Python, JS, C and Assembly",
-      "Frameworks": "Spring-Boot, Flutter, Django and Node.Js",
+      "Frameworks": "Spring Boot, Flutter, Django and Node.Js",
     },
   "🗣️ Languages": {
     "Native": "Portuguese",
     "Other languages": "English and French"
   },
-  "🛠️ Tools": "Docker, VS Code, IntelliJ, Trello, Discord",
+  "🛠️ Tools": "Docker, VS Code, IntelliJ, Trello, Discord and Slack",
   "🧙‍♂️ Other Skills": "Scrum",
   "👨‍💼 Professional Experience": {
     "Elesson": {

@@ -17,7 +17,7 @@ Welcome to my Github profile! Hit me up if you have any doubts.
   "🌎 Country": "Brazil",
   "📚 Course": "Computer Engineering @UFS",
   "🔭 Status": "Looking for job opportunities",
-  "🌱 Currently studying": "Python, Data Science and Spring Boot",
+  "🌱 Currently studying": "Python, Data Science, PowerBI and Spring Boot",
   "👨‍💻 Skills": {
       "Languages": "Java, Dart, Python, JS, C and Assembly",
       "Frameworks": "Spring Boot, Flutter, Django and Node.Js",
@@ -29,6 +29,12 @@ Welcome to my Github profile! Hit me up if you have any doubts.
   "🛠️ Tools": "Docker, VS Code, IntelliJ, Trello, Discord and Slack",
   "🧙‍♂️ Other Skills": "Scrum",
   "👨‍💼 Professional Experience": {
+    "Freelance": {
+      "Role": "Data Analyst",
+      "Category": "Remote",
+      "From/To": "Jan 2021, - ",
+      "Skills used": "Python and Excel",
+     },
     "Elesson": {
       "Role": "Flutter Developer",
       "Category": "Hybrid(Remote/On-site)",

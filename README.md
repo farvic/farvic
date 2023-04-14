@@ -17,7 +17,7 @@ Welcome to my Github profile! Hit me up if you have any doubts.
   "🌎 Country": "Brazil",
   "📚 Course": "Computer Engineering @UFS",
   "🔭 Status": "Looking for job opportunities",
-  "🌱 Currently studying": "Python, Data Science, PowerBI and Spring Boot",
+  "🌱 Currently studying": "Python, Data Analysis, PowerBI and Spring Boot",
   "👨‍💻 Skills": {
       "Languages": "Java, Dart, Python, JS, C and Assembly",
       "Frameworks": "Spring Boot, Flutter, Django and Node.Js",

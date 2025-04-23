@@ -8,14 +8,14 @@ Welcome to my Github profile! Hit me up if you have any doubts.
 
 💻 My skills include Flutter/Dart, Java, Python, HTML/CSS/JS, C and Assembly.
 
-🌱 I’m currently studying Spring/Spring Boot.
+<!-- 🌱 I’m currently studying Spring/Spring Boot. -->
  -->
 <!-- 📫 How to reach me:  -->
 ```json
 {
   "🧔 Name": "Victor Araujo",
   "🌎 Country": "Brazil",
-  "📚 Course": "Computer Engineering @UFS",
+  "📚 Degree": "BSc. in Computer Engineer",
   "🔭 Status": "Looking for job opportunities",
   "🌱 Currently studying": "Python, Data Analysis, PowerBI and Spring Boot",
   "👨‍💻 Skills": {
@@ -32,7 +32,7 @@ Welcome to my Github profile! Hit me up if you have any doubts.
     "Freelance": {
       "Role": "Data Analyst",
       "Category": "Remote",
-      "From/To": "Jan 2021, - ",
+      "From/To": "Jan 2021, - now",
       "Skills used": "Python and Excel",
      },
     "Elesson": {

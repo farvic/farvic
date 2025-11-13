@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]  [![DEV.to][devto-shield]][devto-url]   
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url]  [![DEV.to][devto-shield]][devto-url]    -->
 
 ### Hi there 👋
 
@@ -8,8 +8,11 @@ Welcome to my Github profile! Hit me up if you have any doubts.
 
 💻 My skills include Flutter/Dart, Java, Python, HTML/CSS/JS, C and Assembly.
 
+Check my [LinkedIn](https://www.linkedin.com/in/victorfa)!
+You can check my resume [clicking here](https://farvic.github.io/curriculo/cv-en.pdf)
+Você pode ver o meu currículo [clicando aqui](https://farvic.github.io/curriculo/cv.pdf)
+
 <!-- 🌱 I’m currently studying Spring/Spring Boot. -->
- -->
 <!-- 📫 How to reach me:  -->
 ```json
 {
@@ -26,7 +29,7 @@ Welcome to my Github profile! Hit me up if you have any doubts.
     "Native": "Portuguese",
     "Other languages": "English and French"
   },
-  "🛠️ Tools": "Docker, VS Code, IntelliJ, Trello, Discord and Slack",
+  "🛠️ Tools": "Docker, Figma, VS Code, IntelliJ, Trello, Discord and Slack",
   "🧙‍♂️ Other Skills": "Scrum",
   "👨‍💼 Professional Experience": {
     "Freelance": {
